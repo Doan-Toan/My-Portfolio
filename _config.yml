@@ -1,19 +1,18 @@
 title: <p align="center"> Chris Tran </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "/images/avatar.jpg?raw=true"
 
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://www.facebook.com/toan.nguy.520/">Facebook</a> |
+  <a href="https://github.com/Doan-Toan">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
-  <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
-  <br><br>
+  I am a final year student at Sai Gon University and my major is Software Technology. 
+  During my studies, I participated in a few projects with many programming languages, such as Python, Java, C++, Dart. 
+  I am willing to improve the skills and knowledge necessary for my role.
   </p>
   
 theme: jekyll-theme-minimal
